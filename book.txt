@@ -1,6 +1,10 @@
-mport math
+print Os
 
-1+2+2.....10
+
+
+let arit run
+
+1+2+3.....10
 
 ac-cd/ed
 
