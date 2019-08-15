@@ -1,6 +1,6 @@
 print Os
 
-
+database -1..+2..'3
 
 let arit run
 
